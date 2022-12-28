@@ -4,7 +4,7 @@
 <h3 align="center">I am a web developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about
 development.</h3>
 <br/>
-<img align="right" alt="Coding" width="750" height="100%" src="https://camo.githubusercontent.com/95a8f8600af35a1848f10a6d8caf6db62d1d46bee79f0f0055719ba4d0fac628/68747470733a2f2f7777772e6d79776562776f726c642e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f7765622d64657369676e2d6b6572616c612e676966">
+<img align="right" alt="Coding" width="60%" height="40%" src="https://camo.githubusercontent.com/95a8f8600af35a1848f10a6d8caf6db62d1d46bee79f0f0055719ba4d0fac628/68747470733a2f2f7777772e6d79776562776f726c642e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f7765622d64657369676e2d6b6572616c612e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-06-singh&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-06-singh" /> </p>
 

@@ -1,6 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm Abhishek Singh Chauhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding"  src="https://www.lambdatest.com/resources/images/news24.gif">
+<h3 align="center">I am a web developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about
+development.</h3>
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-06-singh&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-06-singh" /> </p>
 

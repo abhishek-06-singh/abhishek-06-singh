@@ -1,6 +1,6 @@
 # < 👋 NAMASTE WORLD / >  
 
-<br>🌱 I’m currently Working on Frontend Development , Javascript<br><br>👨‍💻 All of my projects are available at https://spiffy-banoffee-c94ce7.netlify.app/<br><br>📝 I regularly write articles on https://spiffy-banoffee-c94ce7.netlify.app/<br><br>💬 Ask me about HTML & CSS , Javascript and ReactJs<br><br>📫 How to reach me avi7000201383@gmail.com
+<br>🌱 I’m currently Working on Frontend Development. <br><br>👨‍💻 All of my projects are available at https://spiffy-banoffee-c94ce7.netlify.app/<br><br>📝 I regularly write articles on https://spiffy-banoffee-c94ce7.netlify.app/<br><br>💬 Ask me about HTML & CSS , Javascript and ReactJs<br><br>📫 How to reach me avi7000201383@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-06-singh&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-06-singh" /> </p>
 
 ## 🌐 Socials:

@@ -8,8 +8,8 @@ development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-06-singh&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-06-singh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-06-singh" alt="abhishek-06-singh" /></a> </p>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-06-singh" alt="abhishek-06-singh" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

@@ -1,7 +1,7 @@
 # < 👋 NAMASTE WORLD / >  
 
 <br>🌱 I’m currently Working on Frontend Development. <br><br>👨‍💻 All of my projects are available at https://spiffy-banoffee-c94ce7.netlify.app/<br><br>📝 I regularly write articles on https://spiffy-banoffee-c94ce7.netlify.app/<br><br>💬 Ask me about HTML & CSS , Javascript and ReactJs<br><br>📫 How to reach me avi7000201383@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-06-singh&label=Profile%2330views&color=0e75b6&style=flat" alt="abhishek-06-singh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-06-singh&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-06-singh" /> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/abhishek999chauhan/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_avi__rajput___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-singh-chauhan-58a824208) 

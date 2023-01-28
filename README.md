@@ -1,11 +1,12 @@
 # < 👋 NAMASTE WORLD / >  
 
 <br>🌱 I’m currently Working on Frontend Development. <br><br>👨‍💻 All of my projects are available at https://cheery-sawine-50de46.netlify.app/<br><br>📝 I regularly write articles on https://cheery-sawine-50de46.netlify.app/<br><br>💬 Ask me about HTML & CSS , Javascript and ReactJs<br><br>📫 How to reach me avi7000201383@gmail.com
+<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-06-singh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-06-singh&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-06-singh" /> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/abhishek999chauhan/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_avi__rajput___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-singh-chauhan-58a824208) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-06-singh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishek-06-singh&theme=buddhism&no-frame=true&no-bg=false&margin-w=4)

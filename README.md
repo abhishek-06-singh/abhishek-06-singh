@@ -5,6 +5,7 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/abhishek999chauhan/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_avi__rajput___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-singh-chauhan-58a824208) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-06-singh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishek-06-singh&theme=buddhism&no-frame=true&no-bg=false&margin-w=4)
@@ -14,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhishek-06-singh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-06-singh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-06-singh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishek-06-singh&theme=rogue)
 

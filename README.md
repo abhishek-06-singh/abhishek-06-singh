@@ -16,8 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-06-singh&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-06-singh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishek-06-singh
-)
+![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishek-06-singh&theme=rogue)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

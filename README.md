@@ -17,6 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=abhishek-06-singh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-06-singh&theme=radical&hide_border=false)<br/>
 
+![contributions](https://user-images.githubusercontent.com/115978151/215249057-7c0147ab-0424-48c9-ba9c-e90fe8103484.png)
 
 ![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishek-06-singh&theme=rogue)
 

@@ -1,6 +1,6 @@
 
 ![github-header-image](https://github.com/abhishek-06-singh/abhishek-06-singh/assets/115978151/10fe5948-fad1-4635-a5e2-e025f757411f)
-
+I am a web developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practice
 *   🧑‍💼  Currently I'm working as a React Developer at Oyelabs 
 *   🌍  I'm based in Jabalpur, India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://abhishek-singh-chauhan-net.netlify.app/'>Portfolio</a>

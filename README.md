@@ -1,7 +1,7 @@
 
 ![github-header-image](https://github.com/abhishek-06-singh/abhishek-06-singh/assets/115978151/10fe5948-fad1-4635-a5e2-e025f757411f)
 
-*   🧑‍💼  Currently I,m working as a React Developer at Oyelabs 
+*   🧑‍💼  Currently I'm working as a React Developer at Oyelabs 
 *   🌍  I'm based in Jabalpur, India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://abhishek-singh-chauhan-net.netlify.app/'>Portfolio</a>
 *   🧠  Currently learning TypeScript

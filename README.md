@@ -3,7 +3,7 @@
 
 *   🧑‍💼  Currently I'm working as a React Developer at Oyelabs 
 *   🌍  I'm based in Jabalpur, India
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://portfolio-2024-seven-plum.vercel.app'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://newportfoliomotion.vercel.app/'>Portfolio</a>
 *   🧠  Currently learning TypeScript
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
